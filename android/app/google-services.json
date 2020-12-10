@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "614867534489",
+    "project_id": "zherebkinfood",
+    "storage_bucket": "zherebkinfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614867534489:android:8e1cde1075949bd3c36e08",
+        "android_client_info": {
+          "package_name": "com.example.foodspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614867534489-atci5e1gj2f7uhcet43qckk1vcvhmqgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdpW-8G4QWBeuBHBhbgmmYn_619t3_ieU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614867534489-atci5e1gj2f7uhcet43qckk1vcvhmqgf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
